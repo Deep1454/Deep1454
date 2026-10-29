@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="224" viewBox="0 0 490 224" role="img" aria-label="TypeRush: A typing game with a React interface and a Node.js + MongoDB backend.">
+<title>TypeRush: A typing game with a React interface and a Node.js + MongoDB backend.</title>
+<defs></defs>
+<g font-family="DejaVu Sans, Arial, sans-serif"><rect x="1" y="1" width="488" height="222" rx="16" fill="#101624" stroke="#2d3548"/>
+<rect x="1" y="29" width="3" height="52" rx="1.5" fill="#91bdff"/>
+<text x="26" y="35" font-size="10" letter-spacing="2" fill="#91bdff">03 / INTERACTIVE WEB</text>
+<text x="25" y="76" font-size="27" font-weight="bold" letter-spacing="-.8" fill="#eef1fb">TypeRush</text>
+<rect x="380" y="35" width="72" height="42" rx="6" fill="none" stroke="#91bdff"/><path d="M390 46 H396 M404 46 H410 M418 46 H424 M432 46 H438 M390 56 H396 M404 56 H410 M418 56 H424 M432 56 H438 M401 67 H431" stroke="#91bdff" stroke-width="3"/>
+<text x="26" y="112" font-size="14" fill="#a5afc7">A typing game with a React interface</text>
+<text x="26" y="134" font-size="14" fill="#a5afc7">and a Node.js + MongoDB backend.</text>
+<path d="M26 159 H464" stroke="#252f42"/>
+<text x="26" y="191" font-size="10" letter-spacing=".7" fill="#91bdff">REACT  /  EXPRESS  /  MONGODB</text>
+<path d="M440 183 H456 M450 177 L456 183 L450 189" fill="none" stroke="#91bdff" stroke-width="1.5"/>
+</g></svg>

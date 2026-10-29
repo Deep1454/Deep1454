@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="224" viewBox="0 0 490 224" role="img" aria-label="EventBooking: A microservices approach to events, room reservations and approvals.">
+<title>EventBooking: A microservices approach to events, room reservations and approvals.</title>
+<defs></defs>
+<g font-family="DejaVu Sans, Arial, sans-serif"><rect x="1" y="1" width="488" height="222" rx="16" fill="#101624" stroke="#2d3548"/>
+<rect x="1" y="29" width="3" height="52" rx="1.5" fill="#b5a4ff"/>
+<text x="26" y="35" font-size="10" letter-spacing="2" fill="#b5a4ff">01 / DISTRIBUTED SYSTEMS</text>
+<text x="25" y="76" font-size="27" font-weight="bold" letter-spacing="-.8" fill="#eef1fb">EventBooking</text>
+<path d="M392 44 H432 V76 H392 Z M412 44 V28 M392 60 H376 M432 60 H448" stroke="#b5a4ff" stroke-width="1.5" fill="none"/><circle cx="412" cy="26" r="4" fill="#b5a4ff"/><circle cx="372" cy="60" r="4" fill="#b5a4ff"/><circle cx="452" cy="60" r="4" fill="#b5a4ff"/><circle cx="412" cy="60" r="6" fill="#b5a4ff" fill-opacity=".25"/>
+<text x="26" y="112" font-size="14" fill="#a5afc7">A microservices approach to events,</text>
+<text x="26" y="134" font-size="14" fill="#a5afc7">room reservations and approvals.</text>
+<path d="M26 159 H464" stroke="#252f42"/>
+<text x="26" y="191" font-size="10" letter-spacing=".7" fill="#b5a4ff">JAVA  /  SPRING BOOT  /  KAFKA</text>
+<path d="M440 183 H456 M450 177 L456 183 L450 189" fill="none" stroke="#b5a4ff" stroke-width="1.5"/>
+</g></svg>
