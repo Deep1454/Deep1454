@@ -24,10 +24,10 @@ A few projects that show the different things I like to build. Select a card to 
 <table>
   <tr>
     <td width="50%"><a href="https://github.com/Deep1454/EventBooking_101"><img src="./assets/eventbooking.svg" width="100%" alt="EventBooking — Java and Spring Boot microservices for event bookings, room reservations and approvals, with Kafka." /></a></td>
-    <td width="50%"><a href="https://github.com/jemishkevadiya/gitnarrate_backend"><img src="./assets/gitnarrate.svg" width="100%" alt="GitNarrate — an AI changelog platform built with TypeScript and Node.js that turns commit history into changelogs and publishes them to Slack." /></a></td>
+    <td width="50%"><a href="https://github.com/jemishkevadiya/gitnarrate_backend"><img src="./assets/gitnarrate.png" width="100%" alt="GitNarrate — an AI changelog platform built with TypeScript and Node.js that turns commit history into changelogs and publishes them to Slack." /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/jemishkevadiya/XploreOn_Backend"><img src="./assets/xploreon.svg" width="100%" alt="XploreOn — a cross-platform travel app for flights, hotels and car rentals, built with React Native and the MERN stack as an academic group project." /></a></td>
+    <td width="50%"><a href="https://github.com/jemishkevadiya/XploreOn_Backend"><img src="./assets/xploreon.png" width="100%" alt="XploreOn — a cross-platform travel app for flights, hotels and car rentals, built with React Native and the MERN stack as an academic group project." /></a></td>
     <td width="50%"><a href="https://github.com/Deep1454/TypeRush"><img src="./assets/typerush.svg" width="100%" alt="TypeRush — a typing game built with React, Express and MongoDB." /></a></td>
   </tr>
 </table>
